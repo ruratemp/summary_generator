@@ -1,0 +1,40 @@
+.jumbotron{
+    background-color: 	#66545e;
+    color: white;
+    text-align: center;
+}
+
+.summary_title{
+    background-color: #f6e0b5;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+.original_title{
+    background-color: #eea990;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.sol{
+    display: flex;
+    flex-direction: row;
+}
+
+.original_txt{
+    background-color: #eea990;
+    padding: 20px;
+}
+
+.summary_txt{
+    background-color: #f6e0b5;
+    padding: 20px;
+    margin-left: 10px;
+}
